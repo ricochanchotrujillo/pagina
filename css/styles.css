@@ -17,7 +17,7 @@
             /*sirve para pasar el scrol por capas forzando a pasar una por una*/
         }
         
-        @media (min-width: 780px) {
+        @media (min-width: 1080px) {
             header,
             .formulario,
             .servicios {
